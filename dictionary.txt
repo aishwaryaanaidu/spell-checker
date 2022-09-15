@@ -528,7 +528,7 @@ architectural
 archive
 archtraitor
 ardent
-ardour
+ardor
 arduous
 are
 arethusa
@@ -926,7 +926,7 @@ begone
 begs
 begun
 behaves
-behaviour
+behavior
 beheaded
 beheld
 behest
@@ -1748,7 +1748,7 @@ claimed
 claims
 clamber
 clambered
-clamours
+clamor
 clan
 clash
 clasp
@@ -1868,8 +1868,8 @@ colloquy
 cologne
 colonna
 colonnas
+color
 colour
-colours
 com
 combat
 combine
@@ -3769,11 +3769,10 @@ fatta
 fault
 faultless
 faults
-favour
+favor
 favourably
 favoured
 favourite
-favours
 façade
 fealty
 fear
@@ -3841,7 +3840,7 @@ fertile
 fertility
 fervent
 fervently
-fervour
+fervor
 fetch
 fetching
 fettered
@@ -4997,11 +4996,11 @@ homeward
 homicides
 honest
 honestly
+honor
 honour
 honourable
 honoured
 honouring
-honours
 hoods
 hook
 hooking
@@ -5071,8 +5070,7 @@ humiliating
 humiliations
 humility
 humilitybut
-humour
-humours
+humor
 hundred
 hundreds
 hung
@@ -5675,10 +5673,9 @@ knows
 knowst
 l
 la
+labor
 laborious
-labour
 labourers
-labours
 labyrinth
 lac
 lack
@@ -6697,11 +6694,10 @@ neglected
 neglecting
 negligence
 negotiations
+neighbor
 neighboring
-neighbour
 neighbourhood
 neighbouring
-neighbours
 neither
 nephew
 nephews
@@ -6884,7 +6880,7 @@ od
 odd
 odes
 odious
-odour
+odor
 odyssey
 oedipus
 oer
@@ -7997,7 +7993,7 @@ ram
 rampart
 ramparts
 ran
-rancour
+rancor
 rang
 range
 ranged
@@ -8441,8 +8437,8 @@ rightly
 rights
 rigid
 rigidly
+rigor
 rigorous
-rigours
 rim
 rima
 rime
@@ -8564,8 +8560,7 @@ ruled
 ruler
 rulers
 rules
-rumour
-rumours
+rumor
 run
 rung
 rungs
@@ -8665,7 +8660,7 @@ savena
 saves
 saving
 savio
-savour
+savor
 saw
 say
 sayest
@@ -8901,7 +8896,7 @@ seville
 sew
 sex
 sextus
-seymour
+seymor
 shade
 shades
 shadeshad
@@ -9379,7 +9374,7 @@ spital
 spite
 spiteful
 splendid
-splendours
+splendor
 splinter
 splinters
 split
@@ -9652,8 +9647,7 @@ successive
 successor
 successors
 succinctly
-succour
-succours
+succor
 succumbed
 such
 suchlike
@@ -10633,8 +10627,8 @@ valleys
 valleywards
 vallombrosa
 valois
+valor
 valorous
-valour
 valuable
 value
 van
@@ -10646,8 +10640,8 @@ vanquish
 vanquished
 vantage
 vantageground
+vapor
 vapour
-vapours
 variance
 varied
 variety
@@ -10753,7 +10747,7 @@ vigilance
 vigne
 vignelanojacopo
 vignethe
-vigour
+vigor
 vii
 viii
 vile
